@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/nike-homepage-react/static/css/main.bd221e33.css",
-    "main.js": "/nike-homepage-react/static/js/main.58574ecd.js",
+    "main.js": "/nike-homepage-react/static/js/main.b9ebac8f.js",
+    "static/media/shoe_image.png": "/nike-homepage-react/static/media/shoe_image.a6925ff450589eac50e5.png",
     "index.html": "/nike-homepage-react/index.html",
     "main.bd221e33.css.map": "/nike-homepage-react/static/css/main.bd221e33.css.map",
-    "main.58574ecd.js.map": "/nike-homepage-react/static/js/main.58574ecd.js.map"
+    "main.b9ebac8f.js.map": "/nike-homepage-react/static/js/main.b9ebac8f.js.map"
   },
   "entrypoints": [
     "static/css/main.bd221e33.css",
-    "static/js/main.58574ecd.js"
+    "static/js/main.b9ebac8f.js"
   ]
 }
