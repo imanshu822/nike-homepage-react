@@ -1,3 +1,6 @@
+import amazonImg from "./images/amazon.png";
+import flipkartImg from "./images/flipkart.png";
+import shoe from "./images/shoe_image.png";
 function HeroSection() {
   return (
     <main className="hero container">
@@ -13,13 +16,13 @@ function HeroSection() {
         <div className="shoping">
             <p>Also Avilable on</p>
             <div className="brand-icons">
-                <img src="/images/amazon.png" alt="amazonIcon" />
-                <img src="/images/flipkart.png" alt="flipkartIcon" />
+                <img src={amazonImg} alt="amazonIcon" />
+                <img src={flipkartImg} alt="flipkartIcon" />
             </div>
         </div>
       </div>
       <div className="hero-image"></div>
-      <img src="/images/shoe_image.png" alt="ShoeImg" />
+      <img src={shoe} alt="ShoeImg" />
     </main>
   );
 }

@@ -1,10 +1,11 @@
+import nikeLogo from "./images/brand_logo.png";
 import React from "react";
 
 function Nevigation() {
   return (
     <nav className="container">
       <div className="logo">
-        <img src="/images/brand_logo.png" alt="brand_logo_image" />
+        <img src={nikeLogo} alt="brand_logo_image" />
       </div>
       <ul>
         <li href="#">MENU</li>
